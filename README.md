@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Ayush_Singh_Devprg-red)](https://www.youtube.com/Ayush_Singh_Devprg)
-[![Linkedin Badge](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-singh-tomar-238264255/)](https://www.linkedin.com/in/ayush-singh-tomar-238264255/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Ayush-green)](https://www.Ayush)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Ayush-yellow)](https://stackoverflow.com/users/3687251/https://stackoverflow.com/users/22349724/ayush-singh-tomar?tab=profile)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-singh-tomar-238264255/)](https://www.linkedin.com/in/aniket-agrawal-95678a288/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Ayush-green)](https://aniketagrawalportfolio.netlify.app)
+
 
 I'm
 Full Stack Solution Architect
