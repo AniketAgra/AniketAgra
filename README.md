@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/WebSite-Aniket-blue)](https://www.linkedin.com/in/aniket-agrawal-95678a288/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Aniket-blue)](https://www.linkedin.com/in/aniket-agrawal-95678a288/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aniket-green)](https://aniketagrawalportfolio.netlify.app)
 
 
