@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **NOC Approval for Fire Safety**
 
-- 👨‍💻 All of my projects are available at [https://aniketsblog-lgrb.onrender.com/](Aniket's Blog)
+- 👨‍💻 All of my projects are available at [Aniket's Blog](https://aniketsblog-lgrb.onrender.com/)
 
-- 📝 I regularly write articles on [Will Be Live Soon](Will Be Live Soon)
+- 📝 I regularly write articles on [Aniket's Blog](https://aniketsblog-lgrb.onrender.com/)
 
 - 💬 Ask me about **MERN**
 
