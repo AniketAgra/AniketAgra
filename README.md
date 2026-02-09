@@ -6,10 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=181717&style=for-the-badge&logo=github" alt="aniketagra profile views"/>
 </p> -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-492-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB"/>
-  <img src="https://img.shields.io/badge/Followers-7-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB"/>
-  <img src="https://img.shields.io/badge/Stars-109-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB"/>
+  <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="aniketagra profile views" />
 </p>
+
 
 
 
