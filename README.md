@@ -5,9 +5,8 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=181717&style=for-the-badge&logo=github" alt="aniketagra profile views"/>
 </p> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="aniketagra profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=blue&style=flat-square)
+
 
 
 
