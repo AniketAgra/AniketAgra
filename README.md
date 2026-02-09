@@ -4,7 +4,7 @@
 🤝 I’m looking for help with Devops<br>
 👯 I’m looking to collaborate on Buffer Breachers<br>
 💬 Ask me about MERN, JS, REACTJS, NODEJS, EXPRESSJS, MONGODB, RAG, GENAI<br>
-👨‍💻 All of my projects are available at  [![Projects](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://aniketsblog-lgrb.onrender.com/)<br> 
+👨‍💻 All of my projects are available at  [![Projects]](https://aniketsblog-lgrb.onrender.com/)<br> 
 📝 I regularly write articles on https://aniketsblog-lgrb.onrender.com/<br>
 📄 Know about my experiences https://drive.google.com/file/d/15xiRFeDNx3TkJgS_d-9S1zGxJ3HdBuKG/view?usp=drivesdk<br>
 📫 How to reach me aniketagra7987@gmail.com<br>
