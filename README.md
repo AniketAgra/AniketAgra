@@ -2,7 +2,10 @@
 🔭 I’m currently working on Edulearn<br>🌱 I’m currently learning Devops<br>🤝 I’m looking for help with Devops<br>👯 I’m looking to collaborate on Buffer Breachers<br>💬 Ask me about MERN, JS, REACTJS, NODEJS, EXPRESSJS, MONGODB, RAG, GENAI<br>👨‍💻 All of my projects are available at https://aniketsblog-lgrb.onrender.com/<br>📝 I regularly write articles on https://aniketsblog-lgrb.onrender.com/<br>📄 Know about my experiences https://drive.google.com/file/d/15xiRFeDNx3TkJgS_d-9S1zGxJ3HdBuKG/view?usp=drivesdk<br>📫 How to reach me aniketagra7987@gmail.com<br>⚡ Fun fact I being I
 
 # 💖 Profile Visits:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile_Views%20views&color=0e75b6" alt="aniketagra" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=181717&style=for-the-badge&logo=github" alt="aniketagra profile views"/>
+</p>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AniketAgrawal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniketagrawal07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-agrawal-95678a288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@aniketa69231321) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@interviewprepwithanbhav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketagra7987@gmail.com) 
