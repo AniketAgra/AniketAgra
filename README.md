@@ -7,10 +7,11 @@
 </p> -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/aniketagra?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/aniketagra?label=Stars&style=for-the-badge&color=0A66C2" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=aniketagra&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/aniketagra?label=FOLLOWERS&style=for-the-badge&color=00C2FF&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/aniketagra?label=TOTAL+STARS&style=for-the-badge&color=00C2FF&labelColor=0D1117" />
 </p>
+
 
 
 
