@@ -2,9 +2,16 @@
 🔭 I’m currently working on Edulearn<br>🌱 I’m currently learning Devops<br>🤝 I’m looking for help with Devops<br>👯 I’m looking to collaborate on Buffer Breachers<br>💬 Ask me about MERN, JS, REACTJS, NODEJS, EXPRESSJS, MONGODB, RAG, GENAI<br>👨‍💻 All of my projects are available at https://aniketsblog-lgrb.onrender.com/<br>📝 I regularly write articles on https://aniketsblog-lgrb.onrender.com/<br>📄 Know about my experiences https://drive.google.com/file/d/15xiRFeDNx3TkJgS_d-9S1zGxJ3HdBuKG/view?usp=drivesdk<br>📫 How to reach me aniketagra7987@gmail.com<br>⚡ Fun fact I being I
 
 # 💖 Profile Visits:
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=181717&style=for-the-badge&logo=github" alt="aniketagra profile views"/>
+</p> -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniketagra&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/aniketagra?label=Followers&style=for-the-badge&color=0A66C2" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/aniketagra?label=Stars&style=for-the-badge&color=0A66C2" alt="stars"/>
 </p>
+
 
 
 ## 🌐 Socials:
