@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **NOC Approval for Fire Safety**
 
-- 👨‍💻 All of my projects are available at [https://aniketagrawalportfolio.netlify.app/#](https://aniketagrawalportfolio.netlify.app/#)
+- 👨‍💻 All of my projects are available at [https://aniketsblog-lgrb.onrender.com/](Aniket's Blog)
 
 - 📝 I regularly write articles on [Will Be Live Soon](Will Be Live Soon)
 
